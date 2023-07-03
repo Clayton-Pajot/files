@@ -1,5 +1,6 @@
 [
   {
+    "ID": "1",
     "NAME": "Skaven Clanrats",
     "GRAPH": "Age of Sigmar: Skaven Clanrats",
     "COST": "30",
@@ -10,6 +11,7 @@
     "BRAND": "Games Workshop"
   },
   {
+    "ID": "2",
     "NAME": "Skaven Stormvermin",
     "GRAPH": "Age of Sigmar: Skaven Stormvermin",
     "COST": "35",
@@ -20,6 +22,7 @@
     "BRAND": "Games Workshop"
   },
   {
+    "ID": "3",
     "NAME": "Greyseer Thanquol",
     "GRAPH": "Age of Sigmar: Greyseer Thanquol",
     "COST": "30",
@@ -30,6 +33,7 @@
     "BRAND": "Games Workshop"
   },
   {
+    "ID": "4",
     "NAME": "Artificer Brush",
     "GRAPH": "Citadel: Artificer Brush",
     "COST": "15",
@@ -40,6 +44,7 @@
     "BRAND": "Citadel"
   },
   {
+    "ID": "5",
     "NAME": "Mephiston Red",
     "GRAPH": "Citadel Paints: Mephiston Red",
     "COST": "2.50",
@@ -50,6 +55,7 @@
     "BRAND": "Citadel"
   },
   {
+    "ID": "6",
     "NAME": "Calgar Blue",
     "GRAPH": "Citadel Paints: Calgar Blue",
     "COST": "2.50",
@@ -60,6 +66,7 @@
     "BRAND": "Citadel"
   },
   {
+    "ID": "7",
     "NAME": "Kabalite Green",
     "GRAPH": "Citadel Paints: Kabalite Green",
     "COST": "2.50",
@@ -70,6 +77,7 @@
     "BRAND": "Citadel"
   },
   {
+    "ID": "8",
     "NAME": "Phalanx Yellow",
     "GRAPH": "Citadel Paints: Phalanx Yellow",
     "COST": "2.50",
@@ -80,6 +88,7 @@
     "BRAND": "Citadel"
   },
   {
+    "ID": "9",
     "NAME": "Painting Handle",
     "GRAPH": "Citadel: Painting Handle",
     "COST": "2.50",
@@ -90,6 +99,7 @@
     "BRAND": "Citadel"
   },
   {
+    "ID": "10",
     "NAME": "Tamiya Extra Thin Cement",
     "GRAPH": "Tamiya Extra Thin Cement",
     "COST": "6",
@@ -100,6 +110,7 @@
     "BRAND": "Tamiya"
   },
   {
+    "ID": "11",
     "NAME": "Tamiya Sanding Sticks",
     "GRAPH": "Tamiya Sanding Sticks",
     "COST": "6",
@@ -110,6 +121,7 @@
     "BRAND": "Tamiya"
   },
   {
+    "ID": "12",
     "NAME": "Tamiya Side Clippers",
     "GRAPH": "Tamiya Side Clippers",
     "COST": "6",
@@ -120,6 +132,7 @@
     "BRAND": "Tamiya"
   },
   {
+    "ID": "13",
     "NAME": "Army Painter Dry Brush set",
     "GRAPH": "Army Painter Dry Brush set",
     "COST": "20",
@@ -130,6 +143,7 @@
     "BRAND": "Army Painter"
   },
   {
+    "ID": "14",
     "NAME": "Army Painter Basing Set",
     "GRAPH": "Army Painter Basing set",
     "COST": "20",
@@ -140,6 +154,7 @@
     "BRAND": "Army Painter"
   },
   {
+    "ID": "15",
     "NAME": "Army Painter Wet Palette",
     "GRAPH": "Army Painter Wet Palette",
     "COST": "20",
