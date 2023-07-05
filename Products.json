@@ -2,7 +2,7 @@
   {
     "ID": "1",
     "NAME": "Skaven Clanrats",
-    "GRAPH": "Age of Sigmar: Skaven Clanrats",
+    "GRAPH": "Clanrats",
     "COST": "30",
     "MSRP": "45",
     "ONHAND": "2",
@@ -13,7 +13,7 @@
   {
     "ID": "2",
     "NAME": "Skaven Stormvermin",
-    "GRAPH": "Age of Sigmar: Skaven Stormvermin",
+    "GRAPH": "Stormvermin",
     "COST": "35",
     "MSRP": "55",
     "ONHAND": "1",
@@ -24,7 +24,7 @@
   {
     "ID": "3",
     "NAME": "Greyseer Thanquol",
-    "GRAPH": "Age of Sigmar: Greyseer Thanquol",
+    "GRAPH": "Thanquol",
     "COST": "30",
     "MSRP": "45",
     "ONHAND": "1",
@@ -35,7 +35,7 @@
   {
     "ID": "4",
     "NAME": "Artificer Brush",
-    "GRAPH": "Citadel: Artificer Brush",
+    "GRAPH": "ArtificerBrush",
     "COST": "15",
     "MSRP": "20",
     "ONHAND": "5",
@@ -46,7 +46,7 @@
   {
     "ID": "5",
     "NAME": "Mephiston Red",
-    "GRAPH": "Citadel Paints: Mephiston Red",
+    "GRAPH": "MephistonRed",
     "COST": "2.50",
     "MSRP": "4",
     "ONHAND": "3",
@@ -57,7 +57,7 @@
   {
     "ID": "6",
     "NAME": "Calgar Blue",
-    "GRAPH": "Citadel Paints: Calgar Blue",
+    "GRAPH": "CalgarBlue",
     "COST": "2.50",
     "MSRP": "4",
     "ONHAND": "3",
@@ -68,7 +68,7 @@
   {
     "ID": "7",
     "NAME": "Kabalite Green",
-    "GRAPH": "Citadel Paints: Kabalite Green",
+    "GRAPH": "KabaliteGreen",
     "COST": "2.50",
     "MSRP": "4",
     "ONHAND": "3",
@@ -79,7 +79,7 @@
   {
     "ID": "8",
     "NAME": "Phalanx Yellow",
-    "GRAPH": "Citadel Paints: Phalanx Yellow",
+    "GRAPH": "PhalanxYellow",
     "COST": "2.50",
     "MSRP": "4",
     "ONHAND": "3",
@@ -90,7 +90,7 @@
   {
     "ID": "9",
     "NAME": "Painting Handle",
-    "GRAPH": "Citadel: Painting Handle",
+    "GRAPH": "PaintingHandle",
     "COST": "2.50",
     "MSRP": "4",
     "ONHAND": "3",
@@ -100,8 +100,8 @@
   },
   {
     "ID": "10",
-    "NAME": "Tamiya Extra Thin Cement",
-    "GRAPH": "Tamiya Extra Thin Cement",
+    "NAME": "Extra Thin Cement",
+    "GRAPH": "XThinCement",
     "COST": "6",
     "MSRP": "10",
     "ONHAND": "2",
@@ -111,8 +111,8 @@
   },
   {
     "ID": "11",
-    "NAME": "Tamiya Sanding Sticks",
-    "GRAPH": "Tamiya Sanding Sticks",
+    "NAME": "Sanding Sticks",
+    "GRAPH": "SandingSticks",
     "COST": "6",
     "MSRP": "10",
     "ONHAND": "2",
@@ -122,8 +122,8 @@
   },
   {
     "ID": "12",
-    "NAME": "Tamiya Side Clippers",
-    "GRAPH": "Tamiya Side Clippers",
+    "NAME": "Side Clippers",
+    "GRAPH": "SideClippers",
     "COST": "6",
     "MSRP": "10",
     "ONHAND": "2",
@@ -133,8 +133,8 @@
   },
   {
     "ID": "13",
-    "NAME": "Army Painter Dry Brush set",
-    "GRAPH": "Army Painter Dry Brush set",
+    "NAME": "Dry Brush set",
+    "GRAPH": "DryBrushSet",
     "COST": "20",
     "MSRP": "30",
     "ONHAND": "1",
@@ -144,8 +144,8 @@
   },
   {
     "ID": "14",
-    "NAME": "Army Painter Basing Set",
-    "GRAPH": "Army Painter Basing set",
+    "NAME": "Basing Set",
+    "GRAPH": "BasingSet",
     "COST": "20",
     "MSRP": "30",
     "ONHAND": "1",
@@ -155,8 +155,8 @@
   },
   {
     "ID": "15",
-    "NAME": "Army Painter Wet Palette",
-    "GRAPH": "Army Painter Wet Palette",
+    "NAME": "Wet Palette",
+    "GRAPH": "WetPalette",
     "COST": "20",
     "MSRP": "30",
     "ONHAND": "1",
