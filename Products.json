@@ -1,6 +1,6 @@
 [
   {
-    "ID": "1",
+    "ID": "aosskvcr",
     "NAME": "Skaven Clanrats",
     "GRAPH": "Clanrats",
     "COST": "30",
@@ -11,7 +11,7 @@
     "BRAND": "Games Workshop"
   },
   {
-    "ID": "2",
+    "ID": "aosskvsv",
     "NAME": "Skaven Stormvermin",
     "GRAPH": "Stormvermin",
     "COST": "35",
@@ -22,7 +22,7 @@
     "BRAND": "Games Workshop"
   },
   {
-    "ID": "3",
+    "ID": "aosskvthq",
     "NAME": "Greyseer Thanquol",
     "GRAPH": "Thanquol",
     "COST": "30",
@@ -33,7 +33,7 @@
     "BRAND": "Games Workshop"
   },
   {
-    "ID": "4",
+    "ID": "citartif",
     "NAME": "Artificer Brush",
     "GRAPH": "ArtificerBrush",
     "COST": "15",
@@ -44,7 +44,7 @@
     "BRAND": "Citadel"
   },
   {
-    "ID": "5",
+    "ID": "citmephrd",
     "NAME": "Mephiston Red",
     "GRAPH": "MephistonRed",
     "COST": "2.50",
@@ -55,7 +55,7 @@
     "BRAND": "Citadel"
   },
   {
-    "ID": "6",
+    "ID": "citcalgbl",
     "NAME": "Calgar Blue",
     "GRAPH": "CalgarBlue",
     "COST": "2.50",
@@ -66,7 +66,7 @@
     "BRAND": "Citadel"
   },
   {
-    "ID": "7",
+    "ID": "citkabgrn",
     "NAME": "Kabalite Green",
     "GRAPH": "KabaliteGreen",
     "COST": "2.50",
@@ -77,7 +77,7 @@
     "BRAND": "Citadel"
   },
   {
-    "ID": "8",
+    "ID": "citphlxyl",
     "NAME": "Phalanx Yellow",
     "GRAPH": "PhalanxYellow",
     "COST": "2.50",
@@ -88,7 +88,7 @@
     "BRAND": "Citadel"
   },
   {
-    "ID": "9",
+    "ID": "citpnthdl",
     "NAME": "Painting Handle",
     "GRAPH": "PaintingHandle",
     "COST": "2.50",
@@ -99,7 +99,7 @@
     "BRAND": "Citadel"
   },
   {
-    "ID": "10",
+    "ID": "tamxthn",
     "NAME": "Extra Thin Cement",
     "GRAPH": "XThinCement",
     "COST": "6",
@@ -110,7 +110,7 @@
     "BRAND": "Tamiya"
   },
   {
-    "ID": "11",
+    "ID": "tamsndstk",
     "NAME": "Sanding Sticks",
     "GRAPH": "SandingSticks",
     "COST": "6",
@@ -121,7 +121,7 @@
     "BRAND": "Tamiya"
   },
   {
-    "ID": "12",
+    "ID": "tamsdclpp",
     "NAME": "Side Clippers",
     "GRAPH": "SideClippers",
     "COST": "6",
@@ -132,7 +132,7 @@
     "BRAND": "Tamiya"
   },
   {
-    "ID": "13",
+    "ID": "apdbs",
     "NAME": "Dry Brush set",
     "GRAPH": "DryBrushSet",
     "COST": "20",
@@ -143,7 +143,7 @@
     "BRAND": "Army Painter"
   },
   {
-    "ID": "14",
+    "ID": "apbs",
     "NAME": "Basing Set",
     "GRAPH": "BasingSet",
     "COST": "20",
@@ -154,7 +154,7 @@
     "BRAND": "Army Painter"
   },
   {
-    "ID": "15",
+    "ID": "apwp",
     "NAME": "Wet Palette",
     "GRAPH": "WetPalette",
     "COST": "20",
